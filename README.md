@@ -10,5 +10,5 @@ Go to <a> https://github.com/jlamond37/team-profile-generator </a>.
 Click on Code and copy the SSH key to pull from git. <img src="assets/github.png">
 
 ## Usage
-Go to <a> https://youtu.be/1rZJueayvyU </a>
+Go to <a> https://youtu.be/9nQosoJZJMs </a>
 
